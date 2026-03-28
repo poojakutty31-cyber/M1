@@ -75,6 +75,7 @@ int main() {
         printf("%d is not a positive number.\n", A);
 
     return 0;
+
 }
 
 ```
@@ -91,7 +92,7 @@ Thus the program to read A values and check whether A is positive number or not 
 
 ## AIM:
 
-Write a program to find minimum between two fraction numbers using conditional operator or ternary operator.
+Write a program to find the minimum between two fraction numbers using conditional operator or ternary operator.
 
 ## ALGORITHM:
 
